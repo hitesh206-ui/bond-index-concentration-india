@@ -1,0 +1,16 @@
+candidate_id,index_name,provider,index_category,priority,include_in_core_sample,status,reason_for_inclusion,next_action
+CAND001,NIFTY AAA Corporate Bond Indices,NSE Indices,Corporate bond,High,Yes,In progress,AAA corporate duration family with 10 percent issuer cap; pilot source already partially extracted,Complete remaining constituents and weights
+CAND002,NIFTY AA+ Corporate Bond Indices,NSE Indices,Corporate bond,High,Yes,Not started,Lower rating bucket comparison against AAA index family,Find portfolio and factsheet source
+CAND003,NIFTY AA Corporate Bond Indices,NSE Indices,Corporate bond,Medium,Yes,Not started,Adds credit-risk variation in issuer concentration,Find portfolio and factsheet source
+CAND004,NIFTY AA- Corporate Bond Indices,NSE Indices,Corporate bond,Medium,Yes,Not started,Adds lower-rated corporate bond benchmark comparison,Find portfolio and factsheet source
+CAND005,NIFTY Banking & PSU Bond Indices,NSE Indices,Banking and PSU bond,High,Yes,In progress,Key benchmark family for PSU and government-linked concentration,Extract constituents from portfolio PDF
+CAND006,Nifty SDL Dec 2028 Index,NSE Indices,Target maturity SDL,High,Yes,Not started,State/UT issuer concentration and target maturity structure,Extract state/UT constituent data
+CAND007,Nifty 3 Year SDL,NSE Indices,SDL,Medium,Yes,Not started,Shorter SDL maturity benchmark for state issuer concentration,Extract state/UT constituent data
+CAND008,Nifty 5 Year SDL,NSE Indices,SDL,Medium,Yes,Not started,Medium SDL maturity benchmark for state issuer concentration,Extract state/UT constituent data
+CAND009,Nifty Composite G-sec Index,NSE Indices,G-sec,High,Yes,In progress,Sovereign-only benchmark useful for issuer concentration contrast,Verify portfolio or factsheet details
+CAND010,Nifty 4-8 yr G-Sec,NSE Indices,G-sec,Medium,Yes,In progress,G-sec duration bucket for security-count versus issuer-count discussion,Verify portfolio or factsheet details
+CAND011,Nifty 8-13 yr G-Sec,NSE Indices,G-sec,Medium,Yes,In progress,G-sec duration bucket for security-count versus issuer-count discussion,Verify portfolio or factsheet details
+CAND012,Nifty 10 yr Benchmark G-Sec,NSE Indices,G-sec,Medium,Potential,Not started,Common sovereign benchmark; useful if portfolio details are accessible,Find official source
+CAND013,Nifty 1D Rate Index,NSE Indices,Money market,Low,Potential,Not started,Money-market comparison if methodology and portfolio coverage are sufficient,Check coverage feasibility
+CAND014,Nifty Commercial Paper Index,NSE Indices,Money market,Low,Potential,Not started,Short-term corporate issuer concentration if source data is available,Check coverage feasibility
+CAND015,Nifty PSU Bond Plus SDL Apr 2026 50:50 Index,NSE Indices,Target maturity PSU/SDL,Medium,Potential,Not started,Mixed PSU and SDL exposure; useful for sector and issuer-group comparison,Find official source
