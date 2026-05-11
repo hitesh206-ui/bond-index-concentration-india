@@ -1,0 +1,12 @@
+scenario_id,index_id,index_segment,scenario_type,issuer_count,issuer_cap,rule_implied_hhi,rule_implied_effective_issuers,top_1_weight,top_3_weight,top_5_weight,top_10_weight
+CAP001,BICI007,NIFTY AAA Ultra Short Duration Bond Index,Equal-weight constituent scenario,4,,0.2500,4.0000,0.2500,0.7500,1.0000,1.0000
+CAP002,BICI007,NIFTY AAA Low Duration Bond Index,Equal-weight constituent scenario,4,,0.2500,4.0000,0.2500,0.7500,1.0000,1.0000
+CAP003,BICI007,NIFTY AAA Short Duration Bond Index,Equal-weight constituent scenario,4,,0.2500,4.0000,0.2500,0.7500,1.0000,1.0000
+CAP004,BICI007,NIFTY AAA Medium Duration Bond Index,Equal-weight constituent scenario,4,,0.2500,4.0000,0.2500,0.7500,1.0000,1.0000
+CAP005,BICI007,NIFTY AAA Corporate Bond Indices,Issuer-cap floor scenario,10,0.10,0.1000,10.0000,0.1000,0.3000,0.5000,1.0000
+CAP006,BICI007,NIFTY AAA Corporate Bond Indices,Visible-issuer group concentration warning,7,0.10,,,0.1000,0.3000,0.5000,0.7000
+CAP007,BICI004,Nifty 3 Year SDL,Rule-implied equal-state scenario,3,,0.3333,3.0000,0.3333,1.0000,1.0000,1.0000
+CAP008,BICI005,Nifty 5 Year SDL,Rule-implied equal-state scenario,3,,0.3333,3.0000,0.3333,1.0000,1.0000,1.0000
+CAP009,BICI010,Nifty SDL Dec 2028 Index,Rule-implied equal-state scenario,13,,0.0769,13.0000,0.0769,0.2308,0.3846,0.7692
+CAP010,BICI009,NIFTY Banking & PSU Ultra Short Duration Bond Index,Equal-weight visible-issuer scenario,15,,0.0667,15.0000,0.0667,0.2000,0.3333,0.6667
+CAP011,BICI009,NIFTY Banking & PSU Low Duration Bond Index,Equal-weight visible-issuer scenario,8,,0.1250,8.0000,0.1250,0.3750,0.6250,1.0000
