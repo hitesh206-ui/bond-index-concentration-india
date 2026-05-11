@@ -1,0 +1,17 @@
+tracker_id,index_id,index_family,bucket_or_segment,status,missing_items,next_action,remarks
+MB001,BICI007,NIFTY AAA Corporate Bond Indices,Ultra Short Duration,Partially captured,Weights,Obtain official weight column,Constituents entered from user/public extract; weights missing
+MB002,BICI007,NIFTY AAA Corporate Bond Indices,Low Duration,Partially captured,Weights,Obtain official weight column,Constituents entered from user/public extract; weights missing
+MB003,BICI007,NIFTY AAA Corporate Bond Indices,Short Duration,Partially captured,Weights,Obtain official weight column,Constituents entered from user/public extract; weights missing
+MB004,BICI007,NIFTY AAA Corporate Bond Indices,Medium Duration,Partially captured,Remaining rows and weights,Complete full bucket text or upload PDF,Only partial pasted text captured
+MB005,BICI007,NIFTY AAA Corporate Bond Indices,Medium to Long Duration,Not captured,Constituents and weights,Extract from official portfolio source,Needed to complete AAA family
+MB006,BICI007,NIFTY AAA Corporate Bond Indices,Long Duration,Not captured,Constituents and weights,Extract from official portfolio source,Needed to complete AAA family
+MB007,BICI009,NIFTY Banking & PSU Bond Indices,Ultra Short Duration,Partially captured,Weights,Obtain official weight column,Constituents entered from public extract; weights missing
+MB008,BICI009,NIFTY Banking & PSU Bond Indices,Low Duration,Partially captured,Remaining rows and weights,Complete full bucket text or upload PDF,Only partial extract captured
+MB009,BICI009,NIFTY Banking & PSU Bond Indices,Short Duration,Not captured,Constituents and weights,Extract from official portfolio source,Needed to complete Banking & PSU family
+MB010,BICI009,NIFTY Banking & PSU Bond Indices,Medium Duration,Not captured,Constituents and weights,Extract from official portfolio source,Needed to complete Banking & PSU family
+MB011,BICI009,NIFTY Banking & PSU Bond Indices,Medium to Long Duration,Not captured,Constituents and weights,Extract from official portfolio source,Needed to complete Banking & PSU family
+MB012,BICI009,NIFTY Banking & PSU Bond Indices,Long Duration,Not captured,Constituents and weights,Extract from official portfolio source,Needed to complete Banking & PSU family
+MB013,BICI009,NIFTY Banking & PSU Bond Indices,Debt Index,Not captured,Constituents and weights,Extract from official portfolio source,Aggregate debt index may be useful as separate observation
+MB014,BICI010,Nifty SDL Dec 2028 Index,Target maturity SDL,Not captured,State or UT constituents and weights,Extract from portfolio or factsheet,Expected 13 selected state or UT issuers
+MB015,BICI004,Nifty 3 Year SDL,3 Year SDL,Not captured,State or UT constituents and weights,Extract from portfolio or factsheet,Expected 3 selected state or UT issuers
+MB016,BICI005,Nifty 5 Year SDL,5 Year SDL,Not captured,State or UT constituents and weights,Extract from portfolio or factsheet,Expected 3 selected state or UT issuers
