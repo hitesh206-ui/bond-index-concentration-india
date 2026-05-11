@@ -1,1 +1,11 @@
 index_id,coverage_type,constituents_available,weights_available,methodology_available,coverage_score,coverage_explanation
+BICI001,Partial,TRUE,FALSE,TRUE,2,Factsheet and methodology available; public page indicates top liquid bonds but full weight file still needs verification
+BICI002,Partial,TRUE,FALSE,TRUE,2,Factsheet and methodology available; constituent structure known from methodology but downloadable portfolio still needs verification
+BICI003,Partial,TRUE,FALSE,TRUE,2,Factsheet and methodology available; constituent structure known from methodology but downloadable portfolio still needs verification
+BICI004,Full,TRUE,TRUE,TRUE,3,Portfolio and methodology links available; equal SDL issuer treatment can support direct or reconstructed concentration
+BICI005,Full,TRUE,TRUE,TRUE,3,Portfolio and methodology links available; equal SDL issuer treatment can support direct or reconstructed concentration
+BICI006,Full,TRUE,TRUE,TRUE,3,Portfolio and methodology links available; top-state issuer selection rule supports verification
+BICI007,Full,TRUE,TRUE,TRUE,3,Portfolio and methodology links available for the corporate bond duration family
+BICI008,Full,TRUE,TRUE,TRUE,3,Portfolio and methodology links available for the AA+ corporate bond duration family
+BICI009,Full,TRUE,TRUE,TRUE,3,Portfolio and methodology links available for banking and PSU bond family
+BICI010,Full,TRUE,TRUE,TRUE,3,Portfolio and methodology links available; methodology states equal-weight SDL structure for selected states or UTs
