@@ -1,0 +1,11 @@
+file,check,status,details
+index_master.csv,required_columns,pass,Required metadata columns present
+coverage_log.csv,required_columns,pass,Required coverage columns present
+methodology_caps.csv,required_columns,pass,Required methodology-cap columns present
+constituents.csv,required_columns,pass,Required constituent columns present
+issuer_mapping.csv,required_columns,pass,Required issuer-mapping columns present
+constituents.csv,missing_weights,warning,39 constituent rows currently have blank weights; observed HHI cannot be calculated yet
+constituents.csv,missing_issuer_names,pass,No missing issuer names in currently entered constituent rows
+issuer_mapping.csv,visible_issuer_mapping,pass,Visible BICI007 and BICI009 issuers have been mapped
+observed_analysis,readiness,blocked,Observed concentration analysis remains blocked until verified numeric weights are entered
+scenario_analysis,readiness,ready,Cap-based and equal-weight scenario analysis can be run from data/interim/cap_based_scenarios.csv
